@@ -64,8 +64,8 @@ h1 {
     height: 55px;
     margin-bottom: 50px;
 }
-.mail:focus,
-.pass:focus {
+input[type="password"]:focus,
+input[type="email"]:focus {
     outline: none;
 }
 .l-n {
