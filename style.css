@@ -18,11 +18,11 @@ p {
 h1 {
     margin-bottom: 15px;
 }
-h3 {
-    /* font-weight: bold; */
-    /* font-size: 23px; */
-}
-.container {
+/* h3 {
+    font-weight: bold; 
+    font-size: 23px;
+} */
+.container { 
     display: flex;
     flex-direction: row;
     flex: 1;
