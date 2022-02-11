@@ -64,6 +64,10 @@ h1 {
     height: 55px;
     margin-bottom: 50px;
 }
+.mail:focus,
+.pass:focus {
+    outline: none;
+}
 .l-n {
     background-color: hsl(0, 0%, 100%);
     padding: 40px 30px;
